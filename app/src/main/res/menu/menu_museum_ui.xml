@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="modernartui.labs.course.modernartui.MuseumUIActivity">
+    <item
+        android:id="@+id/about_menu_item"
+        app:showAsAction="never"
+        android:title="@string/about_item">
+    </item>
+</menu>
